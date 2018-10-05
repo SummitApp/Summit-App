@@ -1,2 +1,2 @@
 # Summit-App
-Hello from CS 506 Throwaway!
+Hi this will be our Summit App README
