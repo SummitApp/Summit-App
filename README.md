@@ -1,2 +1,2 @@
 # Summit-App
-Hello Team!
+Hello Summit App team!
