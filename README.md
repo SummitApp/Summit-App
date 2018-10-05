@@ -1,2 +1,2 @@
 # Summit-App
-Hello Summit App team For mitch
+Hello from CS 506 Throwaway!
